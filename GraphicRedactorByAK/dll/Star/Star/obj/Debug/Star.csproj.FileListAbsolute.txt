@@ -1,0 +1,9 @@
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Star\Star\bin\Debug\Star.dll
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Star\Star\bin\Debug\Star.pdb
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Star\Star\bin\Debug\Paint.exe
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Star\Star\bin\Debug\Newtonsoft.Json.dll
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Star\Star\bin\Debug\Paint.pdb
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Star\Star\bin\Debug\Newtonsoft.Json.xml
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Star\Star\obj\Debug\Star.csprojResolveAssemblyReference.cache
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Star\Star\obj\Debug\Star.dll
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Star\Star\obj\Debug\Star.pdb

@@ -1,0 +1,8 @@
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Ellipse\Ellipse\obj\Debug\Ellipse.csprojResolveAssemblyReference.cache
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Ellipse\Ellipse\bin\Debug\Ellipse.dll
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Ellipse\Ellipse\bin\Debug\Ellipse.pdb
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Ellipse\Ellipse\bin\Debug\Newtonsoft.Json.dll
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Ellipse\Ellipse\bin\Debug\Paint.pdb
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Ellipse\Ellipse\bin\Debug\Newtonsoft.Json.xml
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Ellipse\Ellipse\obj\Debug\Ellipse.dll
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Ellipse\Ellipse\obj\Debug\Ellipse.pdb

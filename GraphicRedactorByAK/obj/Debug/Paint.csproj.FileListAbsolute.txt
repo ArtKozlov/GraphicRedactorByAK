@@ -1,0 +1,23 @@
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\bin\Debug\Paint.exe.config
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\bin\Debug\Paint.exe
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\bin\Debug\Paint.pdb
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\obj\Debug\Paint.Form1.resources
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\obj\Debug\Paint.exe
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\obj\Debug\Paint.pdb
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\bin\Debug\log4net.dll
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\bin\Debug\log4net.xml
+D:\University\Master_Degree\2 sem\OSISP\Paint\Paint\bin\Debug\Paint.exe.config
+D:\University\Master_Degree\2 sem\OSISP\Paint\Paint\bin\Debug\Paint.exe
+D:\University\Master_Degree\2 sem\OSISP\Paint\Paint\bin\Debug\Paint.pdb
+D:\University\Master_Degree\2 sem\OSISP\Paint\Paint\bin\Debug\log4net.dll
+D:\University\Master_Degree\2 sem\OSISP\Paint\Paint\bin\Debug\log4net.xml
+D:\University\Master_Degree\2 sem\OSISP\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\University\Master_Degree\2 sem\OSISP\Paint\Paint\obj\Debug\Paint.Form1.resources
+D:\University\Master_Degree\2 sem\OSISP\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\University\Master_Degree\2 sem\OSISP\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\University\Master_Degree\2 sem\OSISP\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\University\Master_Degree\2 sem\OSISP\Paint\Paint\obj\Debug\Paint.exe
+D:\University\Master_Degree\2 sem\OSISP\Paint\Paint\obj\Debug\Paint.pdb

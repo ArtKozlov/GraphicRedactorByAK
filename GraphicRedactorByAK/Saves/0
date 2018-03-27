@@ -1,0 +1,54 @@
+{
+  "Type": "Ellipce.Ellipce",
+  "X1": "152",
+  "Y1": "135",
+  "X2": "464",
+  "Y2": "338",
+  "pen.Color": "Color [Black]",
+  "pen.Width": "1"
+}
+{
+  "Type": "Line.Line",
+  "X1": "488",
+  "Y1": "325",
+  "X2": "699",
+  "Y2": "270",
+  "pen.Color": "Color [Black]",
+  "pen.Width": "1"
+}
+{
+  "Type": "Ellipce.Ellipce",
+  "X1": "209",
+  "Y1": "203",
+  "X2": "409",
+  "Y2": "294",
+  "pen.Color": "Color [Black]",
+  "pen.Width": "1"
+}
+{
+  "Type": "Pentagon.Pentagon",
+  "X1": "500",
+  "Y1": "110",
+  "X2": "629",
+  "Y2": "195",
+  "pen.Color": "Color [Black]",
+  "pen.Width": "1"
+}
+{
+  "Type": "Star.Star",
+  "X1": "286",
+  "Y1": "224",
+  "X2": "355",
+  "Y2": "280",
+  "pen.Color": "Color [Black]",
+  "pen.Width": "1"
+}
+{
+  "Type": "Triangle.Triangle",
+  "X1": "511",
+  "Y1": "235",
+  "X2": "692",
+  "Y2": "301",
+  "pen.Color": "Color [Black]",
+  "pen.Width": "1"
+}

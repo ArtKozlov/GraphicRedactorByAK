@@ -1,0 +1,63 @@
+{
+  "Type": "Paint.Star",
+  "X1": "158",
+  "Y1": "80",
+  "X2": "390",
+  "Y2": "317",
+  "pen.Color": "Color [Black]",
+  "pen.Width": "1"
+}
+{
+  "Type": "Paint.Line",
+  "X1": "56",
+  "Y1": "105",
+  "X2": "110",
+  "Y2": "284",
+  "pen.Color": "Color [Black]",
+  "pen.Width": "1"
+}
+{
+  "Type": "Paint.Line",
+  "X1": "106",
+  "Y1": "68",
+  "X2": "362",
+  "Y2": "57",
+  "pen.Color": "Color [Black]",
+  "pen.Width": "1"
+}
+{
+  "Type": "Paint.Line",
+  "X1": "536",
+  "Y1": "134",
+  "X2": "314",
+  "Y2": "383",
+  "pen.Color": "Color [Black]",
+  "pen.Width": "1"
+}
+{
+  "Type": "Paint.Line",
+  "X1": "163",
+  "Y1": "305",
+  "X2": "132",
+  "Y2": "435",
+  "pen.Color": "Color [Black]",
+  "pen.Width": "1"
+}
+{
+  "Type": "Paint.Line",
+  "X1": "244",
+  "Y1": "419",
+  "X2": "192",
+  "Y2": "310",
+  "pen.Color": "Color [Black]",
+  "pen.Width": "1"
+}
+{
+  "Type": "Paint.Line",
+  "X1": "9",
+  "Y1": "171",
+  "X2": "72",
+  "Y2": "355",
+  "pen.Color": "Color [Black]",
+  "pen.Width": "1"
+}

@@ -1,0 +1,9 @@
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Line\Line\bin\Debug\Line.dll
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Line\Line\bin\Debug\Line.pdb
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Line\Line\bin\Debug\Paint.exe
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Line\Line\bin\Debug\Newtonsoft.Json.dll
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Line\Line\bin\Debug\Paint.pdb
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Line\Line\bin\Debug\Newtonsoft.Json.xml
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Line\Line\obj\Debug\Line.csprojResolveAssemblyReference.cache
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Line\Line\obj\Debug\Line.dll
+D:\БГУИР\2-й курс\4 семестр\Programs\Labs\ООП\Paint\Paint\dll\Line\Line\obj\Debug\Line.pdb

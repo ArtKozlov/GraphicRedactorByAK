@@ -1,0 +1,27 @@
+{
+  "Type": "Paint.Star",
+  "X1": "159",
+  "Y1": "97",
+  "X2": "421",
+  "Y2": "355",
+  "pen.Color": "Color [Black]",
+  "pen.Width": "1"
+}
+{
+  "Type": "Paint.Star",
+  "X1": "420",
+  "Y1": "74",
+  "X2": "615",
+  "Y2": "302",
+  "pen.Color": "Color [Black]",
+  "pen.Width": "1"
+}
+{
+  "Type": "Paint.Star",
+  "X1": "285",
+  "Y1": "47",
+  "X2": "501",
+  "Y2": "222",
+  "pen.Color": "Color [Black]",
+  "pen.Width": "1"
+}
